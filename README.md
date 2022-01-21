@@ -3,6 +3,7 @@
 
 This is the project for 67262 Database Design and Development @ Carnegie Mellon University. I collaborated with Gabi Augustin in this project; 
 
+
 ## Set up
 Set up the "Instagram" database:
 
@@ -11,3 +12,6 @@ Set up the "Instagram" database:
 Run show_all.sql to load all data:
 
 % psql -d instagram -U isdb -f show_all.sql
+
+## Data
+.csv files are created as sample data to be loaded with each SQL Query
